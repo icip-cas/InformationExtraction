@@ -14,7 +14,7 @@ This repository provides resources for information extraction, including benchma
 *Parminder Bhatia | Busra Celikkaya | Mohammed Khalilia.* ACL-short-2019.
 
 1. **Multi-grained Named Entity Recognition**
-[[paper](https://www.aclweb.org/anthology/P19-1138.pdf)]  
+[[paper](https://www.aclweb.org/anthology/P19-1138.pdf)]    
 *Congying Xia | Chenwei Zhang | Tao Yang | Yaliang Li | Nan Du | Xian Wu | Wei Fan | Fenglong Ma | Philip Yu.* ACL-2019.  
 
 1. **Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning**  
@@ -30,7 +30,7 @@ This repository provides resources for information extraction, including benchma
 *Nicky Ringland | Xiang Dai | Ben Hachey | Sarvnaz Karimi | Cecile Paris | James R. Curran.* ACL-short-2019.  
 
 1. **Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks**  
-[[paper][https://www.aclweb.org/anthology/P19-1511.pdf]][[code](https://github.com/sanmusunrise/ARNs)]    
+[[paper](https://www.aclweb.org/anthology/P19-1511.pdf)][[code](https://github.com/sanmusunrise/ARNs)]    
 *Hongyu Lin | Yaojie Lu | Xianpei Han | Le Sun.* ACL-2019  
 
 1. **Towards Improving Neural Named Entity Recognition with Gazetteers**  
