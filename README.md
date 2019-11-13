@@ -13,7 +13,7 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P19-1091.pdf)]  
 *Parminder Bhatia | Busra Celikkaya | Mohammed Khalilia.* ACL-short-2019.
 
-1. **Multi-grained Named Entity Recognition**
+1. **Multi-grained Named Entity Recognition**  
 [[paper](https://www.aclweb.org/anthology/P19-1138.pdf)]    
 *Congying Xia | Chenwei Zhang | Tao Yang | Yaliang Li | Nan Du | Xian Wu | Wei Fan | Fenglong Ma | Philip Yu.* ACL-2019.  
 
