@@ -1,1 +1,1 @@
-# InformationExtraction
+# Information  Extraction Resources
