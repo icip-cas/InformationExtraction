@@ -160,8 +160,8 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P19-1589.pdf)]  
 *Abiola Obamuyide | Andreas Vlachos,* ACL-short-2019. 
 
-1. **Leveraging Dependency Forest for Neural Medical Relation Extraction**  
-[[paper](https://www.aclweb.org/anthology/D19-1020.pdf)]
+1. **Leveraging Dependency Forest for Neural Medical Relation Extraction**    
+[[paper](https://www.aclweb.org/anthology/D19-1020.pdf)]  
 *Linfeng Song | Yue Zhang | Daniel Gildea | Mo Yu | Zhiguo Wang | jinsong su,* EMNLP-2019.
 
 1. **Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data**  
@@ -172,8 +172,8 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D19-1022.pdf)]   
 *Pengfei Li | Kezhi Mao | Xuefeng Yang | Qi Li,* EMNLP-2019.   
 
-1. **Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction**
-[[paper](https://www.aclweb.org/anthology/D19-1037.pdf)]  
+1. **Self-Attention Enhanced CNNs and Collaborative Curriculum Learning for Distantly Supervised Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D19-1037.pdf)]    
 *Yuyun Huang | Jinhua Du,* EMNLP-2019.
 
 1. **Neural Cross-Lingual Relation Extraction Based on Bilingual Word Embedding Mapping**  
@@ -208,7 +208,7 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D19-1642.pdf)]  
 *Qiang Ning | Sanjay Subramanian | Dan Roth,* EMNLP-short-2019.  
 
-1.**Cross-Sentence N-ary Relation Extraction using Lower-Arity Universal Schemas**  
+1. **Cross-Sentence N-ary Relation Extraction using Lower-Arity Universal Schemas**  
 [[paper](https://www.aclweb.org/anthology/D19-1645.pdf)][[code and data](https://github.com/aurtg/nary-relation-extraction-decomposed)]   
 *Kosuke Akimoto | Takuya Hiraoka | Kunihiko Sadamasa | Mathias Niepert,* EMNLP-short-2019.  
 
