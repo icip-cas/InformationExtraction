@@ -208,7 +208,7 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D19-1642.pdf)]  
 *Qiang Ning | Sanjay Subramanian | Dan Roth,* EMNLP-short-2019.  
 
-1.**Cross-Sentence N-ary Relation Extraction using Lower-Arity Universal Schemas**  
+1. **Cross-Sentence N-ary Relation Extraction using Lower-Arity Universal Schemas**  
 [[paper](https://www.aclweb.org/anthology/D19-1645.pdf)][[code and data](https://github.com/aurtg/nary-relation-extraction-decomposed)]   
 *Kosuke Akimoto | Takuya Hiraoka | Kunihiko Sadamasa | Mathias Niepert,* EMNLP-short-2019.  
 
