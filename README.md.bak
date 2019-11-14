@@ -342,7 +342,7 @@ This repository provides resources for information extraction, including benchma
 *Khai Mai | Thai-Hoang Pham | Minh Trung Nguyen | Tuan Duc Nguyen | Danushka Bollegala | Ryohei Sasano | Satoshi Sekine,* Coling-2018.  
 
 1. **Robust Lexical Features for Improved Neural Network Named-Entity Recognition**  
-[[paper](Robust Lexical Features for Improved Neural Network Named-Entity Recognition)]  
+[[paper](https://www.aclweb.org/anthology/C18-1161.pdf)]  
 *Abbas Ghaddar | Phillippe Langlais,* Coling-2018.  
 
 1. **Transfer Learning for Entity Recognition of Novel Classes**  
@@ -389,7 +389,7 @@ This repository provides resources for information extraction, including benchma
 
 
  ### 2018-RE
-1. **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction**
+1. **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction**  
 [[paper](https://www.aclweb.org/anthology/P18-1046.pdf)]  
 *Pengda Qin | Weiran Xu | William Yang Wang,* ACL-2018. 
 
@@ -406,7 +406,7 @@ This repository provides resources for information extraction, including benchma
 *Van-Thuy Phi | Joan Santoso | Masashi Shimbo | Yuji Matsumoto,* ACL-2018. 
 
 1. **Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction**  
-[[paper](https://www.aclweb.org/anthology/D18-1120.pdf)]
+[[paper](https://www.aclweb.org/anthology/D18-1120.pdf)]  
 *Ningyu Zhang | Shumin Deng | Zhanling Sun | Xi Chen | Wei Zhang | Huajun Chen,* EMNLP-short-2018.  
 
 1. **Genre Separation Network with Adversarial Training for Cross-genre Relation Extraction**  
@@ -477,17 +477,17 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/C18-1291.pdf)]  
 *Artuur Leeuwenberg | Marie-Francine Moens,* Coling-2018. 
 
-1. **Joint Bootstrapping Machines for High Confidence Relation Extraction** 
-[[paper](https://www.aclweb.org/anthology/N18-1003.pdf)][[code](https://github.com/pgcool/Joint-Bootstrapping-Machines)]  
-*Pankaj Gupta | Benjamin Roth | Hinrich Schütze,* NAACL-2018. 
+1. **Joint Bootstrapping Machines for High Confidence Relation Extraction**     
+[[paper](https://www.aclweb.org/anthology/N18-1003.pdf)][[code](https://github.com/pgcool/Joint-Bootstrapping-Machines)]    
+*Pankaj Gupta | Benjamin Roth | Hinrich Schütze,* NAACL-2018.   
 
-1. **Global Relation Embedding for Relation Extraction** 
-[[paper](https://www.aclweb.org/anthology/N18-1075.pdf)]  
-*Yu Su | Honglei Liu | Semih Yavuz | Izzeddin Gür | Huan Sun | Xifeng Yan,* NAACL-2018.  
+1. **Global Relation Embedding for Relation Extraction**   
+[[paper](https://www.aclweb.org/anthology/N18-1075.pdf)]    
+*Yu Su | Honglei Liu | Semih Yavuz | Izzeddin Gür | Huan Sun | Xifeng Yan,* NAACL-2018.    
 
-1. **Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource** 
-[[paper](https://www.aclweb.org/anthology/N18-1077.pdf)]  
-*Qiang Ning | Hao Wu | Haoruo Peng | Dan Roth,* NAACL-2018.  
+1. **Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource**   
+[[paper](https://www.aclweb.org/anthology/N18-1077.pdf)]   
+*Qiang Ning | Hao Wu | Haoruo Peng | Dan Roth,* NAACL-2018.     
 
 1. **Simultaneously Self-Attending to All Mentions for Full-Abstract Biological Relation Extraction**  
 [[paper](https://www.aclweb.org/anthology/N18-1080.pdf)][[code and data](https://github.com/patverga/bran)]  

@@ -386,8 +386,6 @@ This repository provides resources for information extraction, including benchma
 *Huasha Zhao | Yi Yang | Qiong Zhang | Luo Si,* NAACL-short-2018.  
 
 
-
-
  ### 2018-RE
 1. **DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction**  
 [[paper](https://www.aclweb.org/anthology/P18-1046.pdf)]  
@@ -503,7 +501,91 @@ This repository provides resources for information extraction, including benchma
 
 
 
+### 2017-NER
+1. **A Local Detection Approach for Named Entity Recognition and Mention Detection**  
+[[paper](https://www.aclweb.org/anthology/P17-1114.pdf)][[code](https://github.com/xmb-cipher/fofe-ner)]  
+*Mingbin Xu | Hui Jiang | Sedtawut Watcharawittayakul,* ACL-2017.  
 
+1. **Weakly Supervised Cross-Lingual Named Entity Recognition via Effective Annotation and Representation Projection**  
+[[paper](https://www.aclweb.org/anthology/P17-1135.pdf)]  
+*Jian Ni | Georgiana Dinu | Radu Florian,* ACL-2017.  
+
+1. **Cheap Translation for Cross-Lingual Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/D17-1269.pdf)]  
+*Stephen Mayhew | Chen-Tse Tsai | Dan Roth,* EMNLP-2017.  
+
+1. **Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks**  
+[[paper](https://www.aclweb.org/anthology/D17-1282.pdf)]  
+*Peng-Hsuan Li | Ruo-Ping Dong | Yu-Siang Wang | Ju-Chieh Chou | Wei-Yun Ma,* EMNLP-short-2017.  
+
+1. **Fast and Accurate Entity Recognition with Iterated Dilated Convolutions**  
+[[paper](https://www.aclweb.org/anthology/D17-1283.pdf)][[code](https://github.com/iesl/dilated-cnn-ner)]  
+*Emma Strubell | Patrick Verga | David Belanger | Andrew McCallum,* EMNLP-2017.  
+
+1. **NeuroNER: an easy-to-use program for named-entity recognition based on neural networks**  
+[[paper](https://www.aclweb.org/anthology/D17-2017.pdf)][[code](https://github.com/Franck-Dernoncourt/NeuroNER)]  
+*Franck Dernoncourt | Ji Young Lee | Peter Szolovits,* EMNLP-short-2017.  
+
+1. **
+
+### 2017-RE
+1. **Neural Relation Extraction with Multi-lingual Attention**  
+[[paper](https://www.aclweb.org/anthology/P17-1004.pdf)][[code](https://github.com/thunlp/MNRE)]    
+*Yankai Lin | Zhiyuan Liu | Maosong Sun,* ACL-2017.  
+
+1. **Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix**  
+[[paper](https://www.aclweb.org/anthology/P17-1040.pdf)]  
+*Bingfeng Luo | Yansong Feng | Zheng Wang | Zhanxing Zhu | Songfang Huang | Rui Yan | Dongyan Zhao,* ACL-2017.  
+
+1. **Improved Neural Relation Detection for Knowledge Base Question Answering**   
+[[paper](https://www.aclweb.org/anthology/P17-1053.pdf)]  
+*Mo Yu | Wenpeng Yin | Kazi Saidul Hasan | Cicero dos Santos | Bing Xiang | Bowen Zhou,* ACL-2017.  
+
+1. **Jointly Extracting Relations with Class Ties via Effective Deep Ranking**  
+[[paper](https://www.aclweb.org/anthology/P17-1166.pdf)]  
+*Hai Ye | Wenhan Chao | Zhunchen Luo | Zhoujun Li,*  ACL-2017.  
+
+1. **Self-Crowdsourcing Training for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/P17-2082.pdf)]  
+*Azad Abad | Moin Nabi | Alessandro Moschitti,* ACL-short-2017.  
+
+1. **Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach**  
+[[paper](https://www.aclweb.org/anthology/D17-1005.pdf)][[code](https://github.com/LiyuanLucasLiu/ReHession)]    
+*Liyuan Liu | Xiang Ren | Qi Zhu | Shi Zhi | Huan Gui | Heng Ji | Jiawei Han,* EMNLP-2017.  
+
+1. **End-to-End Neural Relation Extraction with Global Optimization**  
+[[paper](https://www.aclweb.org/anthology/D17-1182.pdf)][[code](https://github.com/zhangmeishan/NNRelationExtraction)]  
+*Meishan Zhang | Yue Zhang | Guohong Fu,* EMNLP-2017.  
+
+1. **Incorporating Relation Paths in Neural Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D17-1186.pdf)][[code](https://github.com/thunlp/PathNRE)]  
+*Wenyuan Zeng | Yankai Lin | Zhiyuan Liu | Maosong Sun,* EMNLP-2017.  
+
+1. **Adversarial Training for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D17-1187.pdf)]  
+*Yi Wu | David Bamman | Stuart Russell,* EMNLP-short-2017.  
+
+1. **Context-Aware Representations for Knowledge Base Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D17-1188.pdf)]  
+*Daniil Sorokin | Iryna Gurevych,* EMNLP-short-2017.  
+
+1. **A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D17-1189.pdf)]  
+*Tianyu Liu | Kexiang Wang | Baobao Chang | Zhifang Sui,* EMNLP-short-2017.  
+
+1. **Deep Residual Learning for Weakly-Supervised Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D17-1191.pdf)]  
+*Yi Yao Huang | William Yang Wang,* EMNLP-short-2017.  
+
+1. **Noise-Clustered Distant Supervision for Relation Extraction: A Nonparametric Bayesian Perspective**  
+[[paper](https://www.aclweb.org/anthology/D17-1192.pdf)]  
+*Qing Zhang | Houfeng Wang,* EMNLP-short-2017.  
+
+1. **Learning Fine-grained Relations from Chinese User Generated Categories**  
+[[paper](https://www.aclweb.org/anthology/D17-1273.pdf)]  
+*Chengyu Wang | Yan Fan | Xiaofeng He | Aoying Zhou,* EMNLP-2017. 
+
+1. **
 
 
 
@@ -540,6 +622,20 @@ This repository provides resources for information extraction, including benchma
 1. **Extracting Entities and Relations with Joint Minimum Risk Training**  
 [[paper](https://www.aclweb.org/anthology/D18-1249.pdf)][[code](https://github.com/changzhisun/entrel-joint-mrt)]    
 *Changzhi Sun | Yuanbin Wu | Man Lan | Shiliang Sun | Wenting Wang | Kuang-Chih Lee | Kewen Wu,* EMNLP-2018.  
+
+1. **Going out on a limb: Joint Extraction of Entity Mentions and Relations without Dependency Trees**  
+[[paper](https://www.aclweb.org/anthology/P17-1085.pdf)]  
+*Arzoo Katiyar | Claire Cardie,* ACL-2017.  
+
+1. **Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme**  
+[[paper](https://www.aclweb.org/anthology/P17-1113.pdf)]  
+*Suncong Zheng | Feng Wang | Hongyun Bao | Yuexing Hao | Peng Zhou | Bo Xu,* ACL-2017.  
+
+1. **Global Normalization of Convolutional Neural Networks for Joint Entity and Relation Classification** 
+[[paper](https://www.aclweb.org/anthology/D17-1181.pdf)][[code](http://cistern.cis.lmu.de)]    
+*Heike Adel | Hinrich Schütze,* EMNLP-short-2017.  
+
+
 
 
   
