@@ -89,6 +89,37 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D19-1672.pdf)]  
 *Xiaolei Huang | Jonathan May | Nanyun Peng,* EMNLP-short-2019.  
 
+1. **Entity Recognition at First Sight: Improving NER with Eye Movement Information**  
+[[paper](https://www.aclweb.org/anthology/N19-1001.pdf)][[data](https://github.com/DS3Lab/ner-at-first-sight)]  
+*Nora Hollenstein | Ce Zhang,* NAACL-2019.
+
+1. **Pooled Contextualized Embeddings for Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/N19-1078.pdf)]  
+*Alan Akbik | Tanja Bergmann | Roland Vollgraf,* NAACL-short-2019.  
+
+1. **Better Modeling of Incomplete Annotations for Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/N19-1079.pdf)][[code and data](https://github.com/allanj/ner_incomplete_annotation)]   
+*Zhanming Jie | Pengjun Xie | Wei Lu | Ruixue Ding | Linlin Li,* NAACL-short-2019.  
+
+1. **Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/N19-1117.pdf)]  
+*Angli Liu | Jingfei Du | Veselin Stoyanov,* NAACL-2019.  
+
+1. **Practical, Efficient, and Customizable Active Learning for Named Entity Recognition in the Digital Humanities**  
+[[paper](https://www.aclweb.org/anthology/N19-1231.pdf)][[code](https://github.com/alexerdmann/HER)]  
+*Alexander Erdmann | David Joseph Wrisley | Benjamin Allen | Christopher Brown | Sophie Cohen-Bodénès | Micha Elsner | Yukun Feng | Brian Joseph | Béatrice Joyeux-Prunel | Marie-Catherine de Marneffe,* NAACL-2019.  
+
+1. **CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/N19-1342.pdf)]  
+*Yuying Zhu | Guoxin Wang,* NAACL-2019.  
+
+1. **Cross-lingual Transfer Learning for Japanese Named Entity Recognition**
+[[paper](https://www.aclweb.org/anthology/N19-2023.pdf)]  
+*Andrew Johnson | Penny Karanasou | Judith Gaspers | Dietrich Klakow,* NAACL-Industry track-2019.  
+
+1. **
+
+
 
 
 
@@ -220,17 +251,61 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D19-3029.pdf)][[code](https://github.com/thunlp/)]  
 *Xu Han | Tianyu Gao | Yuan Yao | Deming Ye | Zhiyuan Liu | Maosong Sun,* EMNLP-short-2019.   
 
-1.
+1. **UHop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering**  
+[[paper](https://www.aclweb.org/anthology/N19-1031.pdf)]  
+*Zi-Yuan Chen | Chih-Hung Chang | Yi-Pei Chen | Jijnasa Nayak | Lun-Wei Ku,* NAACL-2019.  
 
+1. **Sentence Embedding Alignment for Lifelong Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/N19-1086.pdf)][[code and data](https://github.com/hongwang600/Lifelong_Relation_Detection)]  
+*Hong Wang | Wenhan Xiong | Mo Yu | Xiaoxiao Guo | Shiyu Chang | William Yang Wang,* NAACL-2019.  
 
+1. **Relation Extraction with Temporal Reasoning Based on Memory Augmented Distant Supervision**  
+[[paper](https://www.aclweb.org/anthology/N19-1107.pdf)][[code and data](https://github.com/ElliottYan/DS_Temporal)]   
+*Jianhao Yan | Lin He | Ruqin Huang | Jian Li | Ying Liu,* NAACL-2019.  
 
+1. **Relation Extraction using Explicit Context Conditioning**  
+[[paper](https://www.aclweb.org/anthology/N19-1147.pdf)]  
+*Gaurav Singh | Parminder Bhatia,* NAACL-short-2019.  
 
+1. **Combining Distant and Direct Supervision for Neural Relation Extraction** 
+[[paper](https://www.aclweb.org/anthology/N19-1184.pdf)][[code](https://github.com/allenai/comb_dist_direct_relex/)]  
+*Iz Beltagy | Kyle Lo | Waleed Ammar,* NAACL-2019. 
 
+1. **Relation Classification Using Segment-Level Attention-based CNN and Dependency-based RNN** 
+[[paper](https://www.aclweb.org/anthology/N19-1286.pdf)]  
+*Van-Hien Tran | Van-Thuy Phi | Hiroyuki Shindo | Yuji Matsumoto,* NAACL-2019. 
 
+1. **Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions**  
+[[paper](https://www.aclweb.org/anthology/N19-1288.pdf)][[code](https://github.com/ZhixiuYe/Intra-Bag-and-Inter-Bag-Attentions)]
+*Zhi-Xiu Ye | Zhen-Hua Ling,* NAACL-2019. 
 
-  
+1. **A Richer-but-Smarter Shortest Dependency Path with Attentive Augmentation for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/N19-1298.pdf)][[code](https://github.com/catcd/RbSP)] 
+*Duy-Cat Can | Hoang-Quynh Le | Quang-Thuy Ha | Nigel Collier,* NAACL-2019.  
 
+1. **Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks**  
+[[paper](https://www.aclweb.org/anthology/N19-1306.pdf)]  
+*Ningyu Zhang | Shumin Deng | Zhanlin Sun | Guanying Wang | Xi Chen | Wei Zhang | Huajun Chen,* NAACL-2019.
 
+1. **GAN Driven Semi-distant Supervision for Relation Extraction** 
+[[paper](https://www.aclweb.org/anthology/N19-1307.pdf)]  
+*Pengshuai Li | Xinsong Zhang | Weijia Jia | Hai Zhao,* NAACL-2019.  
+
+1. **Structured Minimally Supervised Learning for Neural Relation Extraction**
+[[paper](https://www.aclweb.org/anthology/N19-1310.pdf)][[code and data](https://github.com/bflashcp3f/PCNN-NMAR)]  
+*Fan Bai | Alan Ritter,* NAACL-2019. 
+
+1. **Connecting Language and Knowledge with Heterogeneous Representations for Neural Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/N19-1323.pdf)][[code](https://github.com/billy-inn/HRERE)]  
+*Peng Xu | Denilson Barbosa,* NAACL-short-2019. 
+
+1. **Exploiting Noisy Data in Distant Supervision Relation Classification**  
+[[paper](https://www.aclweb.org/anthology/N19-1325.pdf)]  
+*Kaijia Yang | Liang He | Xin-yu Dai | Shujian Huang | Jiajun Chen,* NAACL-2019.  
+
+1. **Document-Level N-ary Relation Extraction with Multiscale Representation Learning**
+[[paper](https://www.aclweb.org/anthology/N19-1370.pdf)]  
+*Robin Jia | Cliff Wong | Hoifung Poon,* NAACL-2019.  
 
 
  
@@ -240,8 +315,7 @@ This repository provides resources for information extraction, including benchma
 
 
 
-
-
+  
 ##joint extraction
 1. **Entity-Relation Extraction as Multi-Turn Question Answering **      
 [[paper](https://www.aclweb.org/anthology/P19-1129.pdf)]       
@@ -262,6 +336,11 @@ This repository provides resources for information extraction, including benchma
 1. **Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction**  
 [[paper](https://www.aclweb.org/anthology/D19-1041.pdf)]  
 *Rujun Han | Qiang Ning | Nanyun Peng,* EMNLP-2019.  
+
+1. **Multilingual Entity, Relation, Event and Human Value Extraction** 
+[[paper](https://www.aclweb.org/anthology/N19-4019.pdf)][[code](http://nlp.cs.rpi.edu/demo/aida_pipeline-master.zip)]    
+*Manling Li | Ying Lin | Joseph Hoover | Spencer Whitehead | Clare Voss | Morteza Dehghani | Heng Ji,* NAACL-demo-2019.  
+
 
 
 
