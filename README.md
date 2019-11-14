@@ -65,8 +65,8 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D19-1396.pdf)][[code](https://github.com/DianboWork/Graph4CNER)]  
 *Dianbo Sui | Yubo Chen | Kang Liu | Jun Zhao | Shengping Liu,* EMNLP-2019.
 
-1. **Dependency-Guided LSTM-CRF for Named Entity Recognition**
-[[paper](https://www.aclweb.org/anthology/D19-1399.pdf)][[code](https://github.com/allanj/ner_with_dependency)]  
+1. **Dependency-Guided LSTM-CRF for Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/D19-1399.pdf)][[code](https://github.com/allanj/ner_with_dependency)]    
 *Zhanming Jie | Wei Lu,*  EMNLP-2019.  
    
 1. **A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers**
@@ -113,11 +113,10 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/N19-1342.pdf)]  
 *Yuying Zhu | Guoxin Wang,* NAACL-2019.  
 
-1. **Cross-lingual Transfer Learning for Japanese Named Entity Recognition**
+1. **Cross-lingual Transfer Learning for Japanese Named Entity Recognition**  
 [[paper](https://www.aclweb.org/anthology/N19-2023.pdf)]  
 *Andrew Johnson | Penny Karanasou | Judith Gaspers | Dietrich Klakow,* NAACL-Industry track-2019.  
 
-1. **
 
 
 
@@ -267,8 +266,8 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/N19-1147.pdf)]  
 *Gaurav Singh | Parminder Bhatia,* NAACL-short-2019.  
 
-1. **Combining Distant and Direct Supervision for Neural Relation Extraction** 
-[[paper](https://www.aclweb.org/anthology/N19-1184.pdf)][[code](https://github.com/allenai/comb_dist_direct_relex/)]  
+1. **Combining Distant and Direct Supervision for Neural Relation Extraction**   
+[[paper](https://www.aclweb.org/anthology/N19-1184.pdf)][[code](https://github.com/allenai/comb_dist_direct_relex/)]    
 *Iz Beltagy | Kyle Lo | Waleed Ammar,* NAACL-2019. 
 
 1. **Relation Classification Using Segment-Level Attention-based CNN and Dependency-based RNN**   
@@ -287,11 +286,11 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/N19-1306.pdf)]  
 *Ningyu Zhang | Shumin Deng | Zhanlin Sun | Guanying Wang | Xi Chen | Wei Zhang | Huajun Chen,* NAACL-2019.
 
-1. **GAN Driven Semi-distant Supervision for Relation Extraction** 
-[[paper](https://www.aclweb.org/anthology/N19-1307.pdf)]  
+1. **GAN Driven Semi-distant Supervision for Relation Extraction**   
+[[paper](https://www.aclweb.org/anthology/N19-1307.pdf)]    
 *Pengshuai Li | Xinsong Zhang | Weijia Jia | Hai Zhao,* NAACL-2019.  
 
-1. **Structured Minimally Supervised Learning for Neural Relation Extraction**
+1. **Structured Minimally Supervised Learning for Neural Relation Extraction**  
 [[paper](https://www.aclweb.org/anthology/N19-1310.pdf)][[code and data](https://github.com/bflashcp3f/PCNN-NMAR)]  
 *Fan Bai | Alan Ritter,* NAACL-2019. 
 
@@ -303,10 +302,10 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/N19-1325.pdf)]  
 *Kaijia Yang | Liang He | Xin-yu Dai | Shujian Huang | Jiajun Chen,* NAACL-2019.  
 
-1. **Document-Level N-ary Relation Extraction with Multiscale Representation Learning**
-[[paper](https://www.aclweb.org/anthology/N19-1370.pdf)]  
+1. **Document-Level N-ary Relation Extraction with Multiscale Representation Learning**  
+[[paper](https://www.aclweb.org/anthology/N19-1370.pdf)]    
 *Robin Jia | Cliff Wong | Hoifung Poon,* NAACL-2019.  
-
+ 
 
  
 
@@ -316,8 +315,8 @@ This repository provides resources for information extraction, including benchma
 
 
   
-##joint extraction
-1. **Entity-Relation Extraction as Multi-Turn Question Answering **      
+###joint extraction
+1. **Entity-Relation Extraction as Multi-Turn Question Answering**      
 [[paper](https://www.aclweb.org/anthology/P19-1129.pdf)]       
 *Xiaoya Li | Fan Yin | Zijun Sun | Xiayu Li | Arianna Yuan | Duo Chai | Mingxin Zhou | Jiwei Li.* ACL-2019.    
 

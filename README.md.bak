@@ -109,7 +109,7 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/N19-1231.pdf)][[code](https://github.com/alexerdmann/HER)]  
 *Alexander Erdmann | David Joseph Wrisley | Benjamin Allen | Christopher Brown | Sophie Cohen-Bodénès | Micha Elsner | Yukun Feng | Brian Joseph | Béatrice Joyeux-Prunel | Marie-Catherine de Marneffe,* NAACL-2019.  
 
-1. **CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition**  
+1. **CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition**    
 [[paper](https://www.aclweb.org/anthology/N19-1342.pdf)]  
 *Yuying Zhu | Guoxin Wang,* NAACL-2019.  
 
@@ -271,8 +271,8 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/N19-1184.pdf)][[code](https://github.com/allenai/comb_dist_direct_relex/)]  
 *Iz Beltagy | Kyle Lo | Waleed Ammar,* NAACL-2019. 
 
-1. **Relation Classification Using Segment-Level Attention-based CNN and Dependency-based RNN** 
-[[paper](https://www.aclweb.org/anthology/N19-1286.pdf)]  
+1. **Relation Classification Using Segment-Level Attention-based CNN and Dependency-based RNN**   
+[[paper](https://www.aclweb.org/anthology/N19-1286.pdf)]    
 *Van-Hien Tran | Van-Thuy Phi | Hiroyuki Shindo | Yuji Matsumoto,* NAACL-2019. 
 
 1. **Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions**  
@@ -337,9 +337,11 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D19-1041.pdf)]  
 *Rujun Han | Qiang Ning | Nanyun Peng,* EMNLP-2019.  
 
-1. **Multilingual Entity, Relation, Event and Human Value Extraction** 
-[[paper](https://www.aclweb.org/anthology/N19-4019.pdf)][[code](http://nlp.cs.rpi.edu/demo/aida_pipeline-master.zip)]    
-*Manling Li | Ying Lin | Joseph Hoover | Spencer Whitehead | Clare Voss | Morteza Dehghani | Heng Ji,* NAACL-demo-2019.  
+1. **Multilingual Entity, Relation, Event and Human Value Extraction**   
+[[paper](https://www.aclweb.org/anthology/N19-4019.pdf)][[code](http://nlp.cs.rpi.edu/demo/aida_pipeline-master.zip)]      
+*Manling Li | Ying Lin | Joseph Hoover | Spencer Whitehead | Clare Voss | Morteza Dehghani | Heng Ji,* NAACL-demo-2019.
+
+  
 
 
 
