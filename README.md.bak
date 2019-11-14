@@ -361,7 +361,31 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/C18-1185.pdf)]  
 *Lingzhen Chen | Alessandro Moschitti,* Coling-2018.  
 
-1. **
+1. **Label-Aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/N18-1001.pdf)]  
+*Zhenghui Wang | Yanru Qu | Liheng Chen | Jian Shen | Weinan Zhang | Shaodian Zhang | Yimei Gao | Gen Gu | Ken Chen | Yong Yu*, NAACL-2018. 
+
+1. **Multimodal Named Entity Recognition for Short Social Media Posts**  
+[[paper](https://www.aclweb.org/anthology/N18-1078.pdf)]  
+*Seungwhan Moon | Leonardo Neves | Vitor Carvalho,* NAACL-2018.  
+
+1. **Nested Named Entity Recognition Revisited**  
+[[paper](https://www.aclweb.org/anthology/N18-1079.pdf)]  
+*Arzoo Katiyar | Claire Cardie,* NAACL-2018.  
+
+1. **Modeling Noisiness to Recognize Named Entities using Multitask Neural Networks on Social Media**  
+[[paper](https://www.aclweb.org/anthology/N18-1127.pdf)]  
+*Gustavo Aguilar | Adrian Pastor López-Monroy | Fabio González | Thamar Solorio,* NAACL-2018.  
+
+1. **A Neural Layered Model for Nested Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/N18-1131.pdf)][[code](https://github.com/meizhiju/layered-bilstm-crf)]  
+*Meizhi Ju | Makoto Miwa | Sophia Ananiadou,* NAACL-2018.  
+
+1. **Improve Neural Entity Recognition via Multi-Task Data Selection and Constrained Decoding**  
+[[paper](https://www.aclweb.org/anthology/N18-2056.pdf)]  
+*Huasha Zhao | Yi Yang | Qiong Zhang | Luo Si,* NAACL-short-2018.  
+
+
 
 
  ### 2018-RE
@@ -421,7 +445,63 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D18-1514.pdf)][[data](https://github.com/ProKil/FewRel)]  
 *Xu Han | Hao Zhu | Pengfei Yu | Ziyun Wang | Yuan Yao | Zhiyuan Liu | Maosong Sun,* EMNLP-2018.  
 
-1. **
+1. **Incorporating Image Matching Into Knowledge Acquisition for Event-Oriented Relation Recognition**  
+[[paper](https://www.aclweb.org/anthology/C18-1015.pdf)]  
+*Yu Hong | Yang Xu | Huibin Ruan | Bowei Zou | Jianmin Yao | Guodong Zhou,* Coling-2018.  
+
+1. **Cooperative Denoising for Distantly Supervised Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/C18-1036.pdf)]  
+*Kai Lei | Daoyuan Chen | Yaliang Li | Nan Du | Min Yang | Wei Fan | Ying Shen,* Coling-2018.  
+
+1. **Adversarial Feature Adaptation for Cross-lingual Relation Classification**  
+[[paper](https://www.aclweb.org/anthology/C18-1037.pdf)]  
+*Bowei Zou | Zengzhuang Xu | Yu Hong | Guodong Zhou,* Coling-2018.  
+
+1. **Multilevel Heuristics for Rationale-Based Entity Relation Classification in Sentences**  
+[[paper](https://www.aclweb.org/anthology/C18-1098.pdf)]  
+*Shiou Tian Hsu | Mandar Chaudhary | Nagiza Samatova,* Coling-2018.  
+
+1. **Adversarial Multi-lingual Neural Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/C18-1099.pdf)][[code](https://github.com/thunlp/AMNRE)]  
+*Xiaozhi Wang | Xu Han | Yankai Lin | Zhiyuan Liu | Maosong Sun,* Coling-2018.  
+
+1. **Neural Relation Classification with Text Descriptions**  
+[[paper](https://www.aclweb.org/anthology/C18-1100.pdf)]  
+*Feiliang Ren | Di Zhou | Zhihui Liu | Yongcheng Li | Rongsheng Zhao | Yongkang Liu | Xiaobo Liang,* Coling-2018. 
+
+1. **Exploratory Neural Relation Classification for Domain Knowledge Acquisition**  
+[[paper](https://www.aclweb.org/anthology/C18-1192.pdf)]  
+*Yan Fan | Chengyu Wang | Xiaofeng He,* Coling-2018.  
+
+1. **Word-Level Loss Extensions for Neural Temporal Relation Classification**  
+[[paper](https://www.aclweb.org/anthology/C18-1291.pdf)]  
+*Artuur Leeuwenberg | Marie-Francine Moens,* Coling-2018. 
+
+1. **Joint Bootstrapping Machines for High Confidence Relation Extraction** 
+[[paper](https://www.aclweb.org/anthology/N18-1003.pdf)][[code](https://github.com/pgcool/Joint-Bootstrapping-Machines)]  
+*Pankaj Gupta | Benjamin Roth | Hinrich Schütze,* NAACL-2018. 
+
+1. **Global Relation Embedding for Relation Extraction** 
+[[paper](https://www.aclweb.org/anthology/N18-1075.pdf)]  
+*Yu Su | Honglei Liu | Semih Yavuz | Izzeddin Gür | Huan Sun | Xifeng Yan,* NAACL-2018.  
+
+1. **Improving Temporal Relation Extraction with a Globally Acquired Statistical Resource** 
+[[paper](https://www.aclweb.org/anthology/N18-1077.pdf)]  
+*Qiang Ning | Hao Wu | Haoruo Peng | Dan Roth,* NAACL-2018.  
+
+1. **Simultaneously Self-Attending to All Mentions for Full-Abstract Biological Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/N18-1080.pdf)][[code and data](https://github.com/patverga/bran)]  
+*Patrick Verga | Emma Strubell | Andrew McCallum,* NAACL-2018.  
+
+1. **Structure Regularized Neural Network for Entity Relation Classification for Chinese Literature Text**  
+[[paper](https://www.aclweb.org/anthology/N18-2059.pdf)][[data](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset)]  
+*Ji Wen | Xu Sun | Xuancheng Ren | Qi Su,* NAACL-short-2018.  
+
+1. **Visually Guided Spatial Relation Extraction from Text**  
+[[paper](https://www.aclweb.org/anthology/N18-2124.pdf)]  
+*Taher Rahgooy | Umar Manzoor | Parisa Kordjamshidi,* NAACL-short-2018.  
+
+
 
 
 
