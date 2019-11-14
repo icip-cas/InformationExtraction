@@ -603,7 +603,7 @@ This repository provides resources for information extraction, including benchma
 *Lizhen Qu | Gabriela Ferraro | Liyuan Zhou | Weiwei Hou | Timothy Baldwin,* EMNLP-short-2016. 
 
 1. **Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping** 
-[[paper](https://www.aclweb.org/anthology/D16-1135.pdf)]  
+[[paper](https://www.aclweb.org/anthology/D16-1135.pdf)]    
 *Jian Ni | Radu Florian,* EMNLP-2016.  
 
 1. **Phonologically Aware Neural Model for Named Entity Recognition in Low Resource Transfer Settings**  
@@ -630,7 +630,6 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/N16-1030.pdf)][[code1](https://github.com/glample/tagger)][[code2](https://github.com/clab/stack-lstm-ner)]  
 *Guillaume Lample | Miguel Ballesteros | Sandeep Subramanian | Kazuya Kawakami | Chris Dyer,* NAACL-2016.  
 
-1. **
 
 ### 2016-RE
 1. **Bidirectional Recurrent Convolutional Neural Network for Relation Classification**  
@@ -679,14 +678,11 @@ This repository provides resources for information extraction, including benchma
 
 1. **Multilingual Relation Extraction using Compositional Universal Schema**  
 [[paper](https://www.aclweb.org/anthology/N16-1103.pdf)]  
-*https://github.com/patverga/torch-relation-extraction,* NAACL-2016.  
+*Patrick Verga | David Belanger | Emma Strubell | Benjamin Roth | Andrew McCallum,* NAACL-2016.  
 
 1. **Effective Crowd Annotation for Relation Extraction**  
 [[paper](https://www.aclweb.org/anthology/N16-1104.pdf)]  
 *Angli Liu | Stephen Soderland | Jonathan Bragg | Christopher H. Lin | Xiao Ling | Daniel S. Weld,* NAACL-2016.  
-
-1. **
-
 
  
 ### 2015-NER

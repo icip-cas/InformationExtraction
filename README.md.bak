@@ -602,6 +602,34 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D16-1087.pdf)]  
 *Lizhen Qu | Gabriela Ferraro | Liyuan Zhou | Weiwei Hou | Timothy Baldwin,* EMNLP-short-2016. 
 
+1. **Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping** 
+[[paper](https://www.aclweb.org/anthology/D16-1135.pdf)]  
+*Jian Ni | Radu Florian,* EMNLP-2016.  
+
+1. **Phonologically Aware Neural Model for Named Entity Recognition in Low Resource Transfer Settings**  
+[[paper](https://www.aclweb.org/anthology/D16-1153.pdf)]  
+*Akash Bharadwaj | David Mortensen | Chris Dyer | Jaime Carbonell,* EMNLP-2016.  
+
+1. **CharNER: Character-Level Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/C16-1087.pdf)]  
+*Onur Kuru | Ozan Arkan Can | Deniz Yuret,* Coling-2016.  
+
+1. **Named Entity Recognition for Linguistic Rapid Response in Low-Resource Languages: Sorani Kurdish and Tajik**  
+[[paper](https://www.aclweb.org/anthology/C16-1095.pdf)]  
+*Patrick Littell | Kartik Goyal | David R. Mortensen | Alexa Little | Chris Dyer | Lori Levin,* Coling-2016.  
+
+1. **Broad Twitter Corpus: A Diverse Named Entity Recognition Resource**  
+[[paper](https://www.aclweb.org/anthology/C16-1111.pdf)][[data](https://gate.ac.uk/wiki/broad-twitter-corpus.html)]  
+*Leon Derczynski | Kalina Bontcheva | Ian Roberts,* Coling-2016.  
+
+1. **An Empirical Study of Automatic Chinese Word Segmentation for Spoken Language Understanding and Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/N16-1028.pdf)]  
+*Wencan Luo | Fan Yang,* NAACL-2016. 
+
+1. **Neural Architectures for Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/N16-1030.pdf)][[code1](https://github.com/glample/tagger)][[code2](https://github.com/clab/stack-lstm-ner)]  
+*Guillaume Lample | Miguel Ballesteros | Sandeep Subramanian | Kazuya Kawakami | Chris Dyer,* NAACL-2016.  
+
 1. **
 
 ### 2016-RE
@@ -625,8 +653,42 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P16-2034.pdf)]  
 *Peng Zhou | Wei Shi | Jun Tian | Zhenyu Qi | Bingchen Li | Hongwei Hao | Bo Xu，* ACL-2016.  
 
+1. **A Position Encoding Convolutional Neural Network Based on Dependency Tree for Relation Classification**  
+[[paper](https://www.aclweb.org/anthology/D16-1007.pdf)]  
+*Yunlun Yang | Yunhai Tong | Shulei Ma | Zhi-Hong Deng,* EMNLP-2016.  
+
+1. **A Unified Architecture for Semantic Role Labeling and Relation Classification**  
+[[paper](https://www.aclweb.org/anthology/C16-1120.pdf)]  
+*Jiang Guo | Wanxiang Che | Haifeng Wang | Ting Liu | Jun Xu,* Coling-2016.  
+
+1. **Improved relation classification by deep recurrent neural networks with data augmentation**  
+[[paper](https://www.aclweb.org/anthology/C16-1138.pdf)]  
+*Yan Xu | Ran Jia | Lili Mou | Ge Li | Yunchuan Chen | Yangyang Lu | Zhi Jin,* Coling-2016.  
+
+1. **Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks**  
+[[paper](https://www.aclweb.org/anthology/C16-1139.pdf)]  
+*Xiaotian Jiang | Quan Wang | Peng Li | Bin Wang,* Coling-2016. 
+
+1. **Pairwise Relation Classification with Mirror Instances and a Combined Convolutional Neural Network**  
+[[paper](https://www.aclweb.org/anthology/C16-1223.pdf)]  
+*Jianfei Yu | Jing Jiang,* Coling-2016. 
+
+1. **Combining Recurrent and Convolutional Neural Networks for Relation Classification**  
+[[paper](https://www.aclweb.org/anthology/N16-1065.pdf)]  
+*Ngoc Thang Vu | Heike Adel | Pankaj Gupta | Hinrich Schütze,* NAACL-short-2016. 
+
+1. **Multilingual Relation Extraction using Compositional Universal Schema**  
+[[paper](https://www.aclweb.org/anthology/N16-1103.pdf)]  
+*https://github.com/patverga/torch-relation-extraction,* NAACL-2016.  
+
+1. **Effective Crowd Annotation for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/N16-1104.pdf)]  
+*Angli Liu | Stephen Soderland | Jonathan Bragg | Christopher H. Lin | Xiao Ling | Daniel S. Weld,* NAACL-2016.  
+
 1. **
 
+
+ 
 ### 2015-NER
 
 ### 2015-RE
@@ -703,7 +765,21 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P16-1087.pdf)]  
 *Arzoo Katiyar | Claire Cardie,* ACL-2016.  
 
-1. **
+1. **Extracting Spatial Entities and Relations in Korean Text**  
+[[paper](https://www.aclweb.org/anthology/C16-1225.pdf)]  
+*Bogyum Kim | Jae Sung Lee,* Coling-short-2016. 
+
+1. **Table Filling Multi-Task Recurrent Neural Network for Joint Entity and Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/C16-1239.pdf)]  
+*Pankaj Gupta | Hinrich Schütze | Bernt Andrassy,* Coling-2016. 
+
+1. **Joint Extraction of Events and Entities within a Document Context**  
+[[paper](https://www.aclweb.org/anthology/N16-1033.pdf)][[code](https://github.com/bishanyang/EventEntityExtractor)]    
+*Bishan Yang | Tom M. Mitchell,* NAACL-2016. 
+
+
+
+
 
 
 
