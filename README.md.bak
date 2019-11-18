@@ -788,7 +788,10 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P14-1037.pdf)]  
 *Panupong Pasupat | Percy Liang,* ACL-2014.  
 
-1. **
+1. **A Hybrid Approach to Features Representation for Fine-grained Arabic Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/C14-1093.pdf)]  
+*Fahd Alotaibi | Mark Lee,* Coling-2014.  
+
 
 ### 2014-RE
 1. **Omni-word Feature and Soft Constraint for Chinese Relation Extraction**  
@@ -831,11 +834,76 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P14-2119.pdf)]  
 *Maria Pershina | Bonan Min | Wei Xu | Ralph Grishman,* ACL-short-2014.  
 
-1. **
+1. **Combining Distant and Partial Supervision for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D14-1164.pdf)][[code](https://nlp.stanford.edu/software/mimlre.shtml)]    
+*Gabor Angeli | Julie Tibshirani | Jean Wu | Christopher D. Manning,* EMNLP-2014.  
+
+1. **Typed Tensor Decomposition of Knowledge Bases for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D14-1165.pdf)]  
+*Kai-Wei Chang | Wen-tau Yih | Bishan Yang | Christopher Meek,* EMNLP-2014.  
+
+1. **A convex relaxation for weakly supervised relation extraction**  
+[[paper](https://www.aclweb.org/anthology/D14-1166.pdf)]  
+*Édouard Grave,* EMNLP-2014.  
+
+1. **ZORE: A Syntax-based System for Chinese Open Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D14-1201.pdf)][[data](https://sourceforge.net/projects/zore/)]   
+*Likun Qiu | Yue Zhang,* EMNLP-2014.  
+
+1. **Type-Aware Distantly Supervised Relation Extraction with Linked Arguments**  
+[[paper](https://www.aclweb.org/anthology/D14-1203.pdf)]  
+*Mitchell Koch | John Gilmer | Stephen Soderland | Daniel S. Weld,* EMNLP-2014.  
+
+1. **Noisy Or-based model for Relation Extraction using Distant Supervision**  
+[[paper](https://www.aclweb.org/anthology/D14-1208.pdf)]  
+*Ajay Nagesh | Gholamreza Haffari | Ganesh Ramakrishnan,* EMNLP-short-2014.  
+
+1. **Ensemble-Based Medical Relation Classification**  
+[[paper](https://www.aclweb.org/anthology/C14-1159.pdf)]  
+*Jennifer D’Souza | Vincent Ng,* Coling-2014.  
+
+1. **Exploratory Relation Extraction in Large Text Corpora**  
+[[paper](Exploratory Relation Extraction in Large Text Corpora)]  
+*Alan Akbik | Thilo Michael | Christoph Boden,* Coling-2014.  
+
+1. **Exploring Fine-grained Entity Type Constraints for Distantly Supervised Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/C14-1199.pdf)]  
+*Yang Liu | Kang Liu | Liheng Xu | Jun Zhao,* Coling-2014.  
+
+1. **Relation Classification via Convolutional Deep Neural Network**  
+[[paper](https://www.aclweb.org/anthology/C14-1220.pdf)]  
+*Daojian Zeng | Kang Liu | Siwei Lai | Guangyou Zhou | Jun Zhao,* Coling-2014.  
+
 
 ### 2013-NER
+1. **Joint Word Alignment and Bilingual Named Entity Recognition Using Dual Decomposition**  
+[[paper](https://www.aclweb.org/anthology/P13-1106.pdf)]  
+*Mengqiu Wang | Wanxiang Che | Christopher D. Manning,* ACL-2013.  
+
+1. **
 
 ### 2013-RE
+1. **Embedding Semantic Similarity in Tree Kernels for Domain Adaptation of Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/P13-1147.pdf)]  
+*Barbara Plank | Alessandro Moschitti,* ACL-2013.  
+
+1. **Filling Knowledge Base Gaps for Distant Supervision of Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/P13-2117.pdf)]  
+*Wei Xu | Raphael Hoffmann | Le Zhao | Ralph Grishman,* ACL-short-2013.  
+
+1. **Unsupervised Relation Extraction with General Domain Knowledge**  
+[[paper](https://www.aclweb.org/anthology/D13-1040.pdf)]  
+*Oier Lopez de Lacalle | Mirella Lapata,* EMNLP-2013.  
+
+1. **Effectiveness and Efficiency of Open Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D13-1043.pdf)]  
+*Filipe Mesquita | Jordan Schmidek | Denilson Barbosa,* EMNLP-2013.  
+
+1. **Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D13-1136.pdf)]
+*Jason Weston | Antoine Bordes | Oksana Yakhnenko | Nicolas Usunier,* EMNLP-short-2013.  
+
+1. 
 
 ### 2012-NER
 
@@ -915,7 +983,11 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P14-1038.pdf)]  
 *Qi Li | Heng Ji,* ACL-2014. 
 
-1. **
+1. **Modeling Joint Entity and Relation Extraction with Table Representation**  
+[[paper](https://www.aclweb.org/anthology/D14-1200.pdf)]  
+*Makoto Miwa | Yutaka Sasaki,* EMNLP-2014.  
+
+
 
 
 
