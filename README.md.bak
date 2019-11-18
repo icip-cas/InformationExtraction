@@ -880,7 +880,10 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P13-1106.pdf)]  
 *Mengqiu Wang | Wanxiang Che | Christopher D. Manning,* ACL-2013.  
 
-1. **
+1. **Named Entity Recognition with Bilingual Constraints**  
+[[paper](https://www.aclweb.org/anthology/N13-1006.pdf)]  
+*Wanxiang Che | Mengqiu Wang | Christopher D. Manning | Ting Liu，* NAACL-2013.  
+
 
 ### 2013-RE
 1. **Embedding Semantic Similarity in Tree Kernels for Domain Adaptation of Relation Extraction**  
@@ -903,22 +906,221 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D13-1136.pdf)]
 *Jason Weston | Antoine Bordes | Oksana Yakhnenko | Nicolas Usunier,* EMNLP-short-2013.  
 
-1. 
+1. **Simple Customization of Recursive Neural Networks for Semantic Relation Classification**  
+[[paper](https://www.aclweb.org/anthology/D13-1137.pdf)]  
+*Kazuma Hashimoto | Makoto Miwa | Yoshimasa Tsuruoka | Takashi Chikayama,* EMNLP-short-2013.  
+
+1. **Relation Extraction with Matrix Factorization and Universal Schemas**  
+[[paper](https://www.aclweb.org/anthology/N13-1008.pdf)]  
+*Sebastian Riedel | Limin Yao | Andrew McCallum | Benjamin M. Marlin,* NAACL-2013.  
+
+1. **Exploiting the Scope of Negations and Heterogeneous Features for Relation Extraction: A Case Study for Drug-Drug Interaction Extraction**  
+[[paper](https://www.aclweb.org/anthology/N13-1093.pdf)]  
+*Md. Faisal Mahbub Chowdhury | Alberto Lavelli,* NAACL-short-2013.  
+
+1. **Graph-Based Seed Set Expansion for Relation Extraction Using Random Walk Hitting Times**  
+[[paper](https://www.aclweb.org/anthology/N13-1094.pdf)]  
+*Joel Lang | James Henderson,* NAACL-short-2013.  
+
+1. **Distant Supervision for Relation Extraction with an Incomplete Knowledge Base**  
+[[paper](https://www.aclweb.org/anthology/N13-1095.pdf)]  
+*Bonan Min | Ralph Grishman | Li Wan | Chang Wang | David Gondek,* NAACL-short-2013.  
+
 
 ### 2012-NER
+1. **Joint Inference of Named Entity Recognition and Normalization for Tweets**  
+[[paper](https://www.aclweb.org/anthology/P12-1055.pdf)]  
+*Xiaohua Liu | Ming Zhou | Xiangyang Zhou | Zhongyang Fu | Furu Wei,* ACL-2012. 
+
+1. **Multilingual Named Entity Recognition using Parallel Data and Metadata from Wikipedia**  
+[[paper](https://www.aclweb.org/anthology/P12-1073.pdf)]  
+*Sungchul Kim | Kristina Toutanova | Hwanjo Yu,* ACL-2012.  
+
+1. **SpeedRead: A Fast Named Entity Recognition Pipeline**  
+[[paper](https://www.aclweb.org/anthology/C12-1004.pdf)]  
+*Rami Al-Rfou’ | Steven Skiena,* Coling-2012.  
+
+1. **A Pipeline Arabic Named Entity Recognition using a Hybrid Approach**  
+[[paper](https://www.aclweb.org/anthology/C12-1132.pdf)]  
+*Mai Oudah | Khaled Shaalan,* Coling-2012.  
+
+1. **Initial Explorations on using CRFs for Turkish Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/C12-1150.pdf)]  
+*Gökhan Akın Şeker | Gülşen Eryiğit,* Coling-2012.  
+
+1. **Differential Evolution Based Feature Selection and Classifier Ensemble for Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/C12-1151.pdf)]  
+*Utpal Kumar Sikdar | Asif Ekbal | Sriparna Saha,* Coling-2012.  
+
+1. **Named Entity Recognition System for Urdu**  
+[[paper](https://www.aclweb.org/anthology/C12-1153.pdf)]  
+*UmrinderPal Singh | Vishal Goyal | Gurpreet Singh Lehal,* Coling-2012.  
+
+1. **Fine-Grained Classification of Named Entities by Fusing Multi-Features**  
+[[paper](https://www.aclweb.org/anthology/C12-2068.pdf)]  
+*Wenjie Li | Jiwei Li | Ye Tian | Zhifang Sui,* Coling-short-2012.  
+
+1. **HYENA: Hierarchical Type Classification for Entity Names**  
+[[paper](https://www.aclweb.org/anthology/C12-2133.pdf)]  
+*Mohamed Amir Yosef | Sandro Bauer | Johannes Hoffart | Marc Spaniol | Gerhard Weikum,* Coling-short-2012. 
+
 
 ### 2012-RE
+1. **Temporally Anchored Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/P12-1012.pdf)]  
+*Guillermo Garrido | Anselmo Peñas | Bernardo Cabaleiro | Álvaro Rodrigo,* ACL-2012.  
+
+1. **Reducing Wrong Labels in Distant Supervision for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/P12-1076.pdf)]  
+*Shingo Takamatsu | Issei Sato | Hiroshi Nakagawa,* ACL-2012.  
+
+1. **A Graph-based Cross-lingual Projection Approach for Weakly Supervised Relation Extraction** 
+[[paper](https://www.aclweb.org/anthology/P12-2010.pdf)]  
+*Seokhwan Kim | Gary Geunbae Lee,* ACL-short-2012.  
+
+1. **Pattern Learning for Relation Extraction with a Hierarchical Topic Model**  
+[[paper](https://www.aclweb.org/anthology/P12-2011.pdf)]  
+*Enrique Alfonseca | Katja Filippova | Jean-Yves Delort | Guillermo Garrido,* ACL-short-2012.  
+
+1. **Multi-instance Multi-label Learning for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D12-1042.pdf)]  
+*Mihai Surdeanu | Julie Tibshirani | Ramesh Nallapati | Christopher D. Manning,* EMNLP-2012.  
+
+1. **Ensemble Semantics for Large-scale Unsupervised Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/D12-1094.pdf)]  
+*Bonan Min | Shuming Shi | Ralph Grishman | Chin-Yew Lin,* EMNLP-2012.  
+
+1. **Unsupervised Discovery of Relations and Discriminative Extraction Patterns**  
+[[paper](https://www.aclweb.org/anthology/C12-1002.pdf)]  
+*Alan Akbik | Larysa Visengeriyeva | Priska Herger | Holmer Hemsen | Alexander Löser,* Coling-2012.  
+
+1. **Improved Temporal Relation Classification using Dependency Parses and Selective Crowdsourced Annotations**  
+[[paper](https://www.aclweb.org/anthology/C12-1129.pdf)]  
+*Jun-Ping Ng | Min-Yen Kan,* Coling-2012.  
+
+1. **Impact of Less Skewed Distributions on Efficiency and Effectiveness of Biomedical Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/C12-2021.pdf)]  
+*Md. Faisal Mahbub Chowdhury | Alberto Lavelli,* Coling-short-2012. 
+
+1. **Relation Classification using Entity Sequence Kernels**  
+[[paper](https://www.aclweb.org/anthology/C12-2039.pdf)]  
+*Debanjan Ghosh | Smaranda Muresan,* Coling-short-2012.  
 
 ### 2011-NER
+1. **Recognizing Named Entities in Tweets**  
+[[paper](https://www.aclweb.org/anthology/P11-1037.pdf)]  
+*Xiaohua Liu | Shaodian Zhang | Furu Wei | Ming Zhou,* ACL-2011.  
+
+1. **Piggyback: Using Search Engines for Robust Cross-Domain Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/P11-1097.pdf)]  
+*Stefan Rüd | Massimiliano Ciaramita | Jens Müller | Hinrich Schützel,* ACL-2011.   
+
+1. **Named Entity Recognition in Tweets: An Experimental Study**  
+[[paper](https://www.aclweb.org/anthology/D11-1141.pdf)]  
+*Alan Ritter | Sam Clark | Mausam | Oren Etzioni,* EMNLP-2011.  
+
+1. **Bootstrapped Named Entity Recognition for Product Attribute Extraction**  
+[[paper](https://www.aclweb.org/anthology/D11-1144.pdf)]  
+*Duangmanee Putthividhya | Junling Hu,* EMNLP-2011.  
 
 ### 2011-RE
+1. **Semi-supervised Relation Extraction with Large-scale Word Clustering**  
+[[paper](https://www.aclweb.org/anthology/P11-1053.pdf)]  
+*Ang Sun | Ralph Grishman | Satoshi Sekine,* ACL-2011.  
+
+1. **In-domain Relation Discovery with Meta-constraints via Posterior Regularization**  
+[[paper](https://www.aclweb.org/anthology/P11-1054.pdf)]  
+*Harr Chen | Edward Benson | Tahira Naseem | Regina Barzilay,* ACL-2011. 
+
+1. **Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations**  
+[[paper](https://www.aclweb.org/anthology/P11-1055.pdf)]  
+*Raphael Hoffmann | Congle Zhang | Xiao Ling | Luke Zettlemoyer | Daniel S. Weld,* ACL-2011.  
+
+1. **Exploiting Syntactico-Semantic Structures for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/P11-1056.pdf)]  
+*Yee Seng Chan | Dan Roth,* ACL-2011.  
+
+1. **End-to-End Relation Extraction Using Distant Supervision from External Semantic Repositories**  
+[[paper](https://www.aclweb.org/anthology/P11-2048.pdf)]  
+*Truc-Vien T. Nguyen | Alessandro Moschitti,* ACL-short-2011.  
+
+1. **Relation Extraction with Relation Topics**  
+[[paper](https://www.aclweb.org/anthology/D11-1132.pdf)]  
+*Chang Wang | James Fan | Aditya Kalyanpur | David Gondek,* EMNLP-2011.  
+
+1. **Structured Relation Discovery using Generative Models**  
+[[paper](https://www.aclweb.org/anthology/D11-1135.pdf)]  
+*Limin Yao | Aria Haghighi | Sebastian Riedel | Andrew McCallum,* EMNLP-2011.  
+
+1. **Identifying Relations for Open Information Extraction**  
+[[paper](https://www.aclweb.org/anthology/D11-1142.pdf)]  
+*Anthony Fader | Stephen Soderland | Oren Etzioni,* EMNLP-2011.  
 
 ### 2010-NER
+1. **Hierarchical Joint Learning: Improving Joint Parsing and Named Entity Recognition with Non-Jointly Labeled Data** 
+[[paper](https://www.aclweb.org/anthology/P10-1074.pdf)]  
+*Jenny Rose Finkel | Christopher D. Manning,* ACL-2010.  
+
+1.**Arabic Named Entity Recognition: Using Features Extracted from Noisy Data** 
+[[paper](https://www.aclweb.org/anthology/P10-2052.pdf)]  
+*Yassine Benajiba | Imed Zitouni | Mona Diab | Paolo Rosso,* ACL-short-2010.  
+
+1. **Domain Adaptation of Rule-Based Annotators for Named-Entity Recognition Tasks**
+[[paper](https://www.aclweb.org/anthology/D10-1098.pdf)]  
+*Laura Chiticariu | Rajasekar Krishnamurthy | Yunyao Li | Frederick Reiss | Shivakumar Vaithyanathan,* EMNLP-2010.  
+
+1. **Open Entity Extraction from Web Search Query Logs**  
+[[paper](https://www.aclweb.org/anthology/C10-1058.pdf)]  
+*Alpa Jain | Marco Pennacchiotti,* Coling-2010.  
+
+1. **Recognizing Medication related Entities in Hospital Discharge Summaries using Support Vector Machine**
+[[paper](https://www.aclweb.org/anthology/C10-2030.pdf)]  
+*Son Doan | Hua Xu,* Coling-2010.  
+
+1. **Kernel-based Reranking for Named-Entity Extraction**  
+[[paper](https://www.aclweb.org/anthology/C10-2104.pdf)]  
+*Truc-Vien T. Nguyen | Alessandro Moschitti | Giuseppe Riccardi,* Coling-2010.  
+
+1. **Minimally-Supervised Extraction of Entities from Text Advertisements**  
+[[paper](https://www.aclweb.org/anthology/N10-1009.pdf)]  
+*Sameer Singh | Dustin Hillard | Chris Leggetter,* NAACL-2010.  
+
 
 ### 2010-RE
+1. **Learning 5000 Relational Extractors**  
+[[paper](https://www.aclweb.org/anthology/P10-1030.pdf)]  
+*Raphael Hoffmann | Congle Zhang | Daniel S. Weld,* ACL-2010.  
+
+1. **Clustering-Based Stratified Seed Sampling for Semi-Supervised Relation Classification**  
+[[paper](https://www.aclweb.org/anthology/D10-1034.pdf)]  
+*Longhua Qian | Guodong Zhou,* EMNLP-2010.
+
+1. **Collective Cross-Document Relation Extraction Without Labelled Data**  
+[[paper](https://www.aclweb.org/anthology/D10-1099.pdf)]  
+*Limin Yao | Sebastian Riedel | Andrew McCallum,* EMNLP-2010.  
+
+1. **Constraints Based Taxonomic Relation Classification**  
+[[paper](https://www.aclweb.org/anthology/D10-1107.pdf)]  
+*Quang Do | Dan Roth,* EMNLP-2010.  
+
+1. **Self-Annotation for fine-grained geospatial relation extraction**  
+[[paper](https://www.aclweb.org/anthology/C10-1010.pdf)]  
+*Andre Blessing | Hinrich Schütze,* Coling-2010.  
+
+1. **Exploiting Background Knowledge for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/C10-1018.pdf)]  
+*Yee Seng Chan | Dan Roth,* Coling-2010.  
+
+1. **A Cross-lingual Annotation Projection Approach for Relation Detection**  
+[[paper](https://www.aclweb.org/anthology/C10-1064.pdf)]  
+*Seokhwan Kim | Minwoo Jeong | Jonghoon Lee | Gary Geunbae Lee,* Coling-2010.  
+
+1. **Boosting Relation Extraction with Limited Closed-World Knowledge**  
+[[paper](https://www.aclweb.org/anthology/C10-2155.pdf)]  
+*Feiyu Xu | Hans Uszkoreit | Sebastian Krause | Hong Li,* Coling-2010.  
 
   
-###joint extraction
+###Joint extraction
 1. **Entity-Relation Extraction as Multi-Turn Question Answering**      
 [[paper](https://www.aclweb.org/anthology/P19-1129.pdf)]       
 *Xiaoya Li | Fan Yin | Zijun Sun | Xiayu Li | Arianna Yuan | Duo Chai | Mingxin Zhou | Jiwei Li.* ACL-2019.    
@@ -986,6 +1188,10 @@ This repository provides resources for information extraction, including benchma
 1. **Modeling Joint Entity and Relation Extraction with Table Representation**  
 [[paper](https://www.aclweb.org/anthology/D14-1200.pdf)]  
 *Makoto Miwa | Yutaka Sasaki,* EMNLP-2014.  
+
+1. **Jointly Identifying Entities and Extracting Relations in Encyclopedia Text via A Graphical Model Approach**  
+[[paper](https://www.aclweb.org/anthology/C10-2160.pdf)]  
+*Xiaofeng Yu | Wai Lam,* Coling-2010.  
 
 
 

@@ -606,9 +606,9 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D16-1135.pdf)]    
 *Jian Ni | Radu Florian,* EMNLP-2016.  
 
-1. **Phonologically Aware Neural Model for Named Entity Recognition in Low Resource Transfer Settings**  
-[[paper](https://www.aclweb.org/anthology/D16-1153.pdf)]  
-*Akash Bharadwaj | David Mortensen | Chris Dyer | Jaime Carbonell,* EMNLP-2016.  
+1. **Phonologically Aware Neural Model for Named Entity Recognition in Low Resource Transfer Settings**   
+[[paper](https://www.aclweb.org/anthology/D16-1153.pdf)]    
+*Akash Bharadwaj | David Mortensen | Chris Dyer | Jaime Carbonell,* EMNLP-2016.    
 
 1. **CharNER: Character-Level Named Entity Recognition**  
 [[paper](https://www.aclweb.org/anthology/C16-1087.pdf)]  
@@ -974,9 +974,9 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P12-1076.pdf)]  
 *Shingo Takamatsu | Issei Sato | Hiroshi Nakagawa,* ACL-2012.  
 
-1. **A Graph-based Cross-lingual Projection Approach for Weakly Supervised Relation Extraction** 
-[[paper](https://www.aclweb.org/anthology/P12-2010.pdf)]  
-*Seokhwan Kim | Gary Geunbae Lee,* ACL-short-2012.  
+1. **A Graph-based Cross-lingual Projection Approach for Weakly Supervised Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/P12-2010.pdf)]   
+*Seokhwan Kim | Gary Geunbae Lee,* ACL-short-2012.   
 
 1. **Pattern Learning for Relation Extraction with a Hierarchical Topic Model**  
 [[paper](https://www.aclweb.org/anthology/P12-2011.pdf)]  
@@ -1061,15 +1061,15 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P10-1074.pdf)]  
 *Jenny Rose Finkel | Christopher D. Manning,* ACL-2010.  
 
-1.**Arabic Named Entity Recognition: Using Features Extracted from Noisy Data** 
-[[paper](https://www.aclweb.org/anthology/P10-2052.pdf)]  
+1. **Arabic Named Entity Recognition: Using Features Extracted from Noisy Data**   
+[[paper](https://www.aclweb.org/anthology/P10-2052.pdf)]    
 *Yassine Benajiba | Imed Zitouni | Mona Diab | Paolo Rosso,* ACL-short-2010.  
 
-1. **Domain Adaptation of Rule-Based Annotators for Named-Entity Recognition Tasks**
-[[paper](https://www.aclweb.org/anthology/D10-1098.pdf)]  
-*Laura Chiticariu | Rajasekar Krishnamurthy | Yunyao Li | Frederick Reiss | Shivakumar Vaithyanathan,* EMNLP-2010.  
+1. **Domain Adaptation of Rule-Based Annotators for Named-Entity Recognition Tasks**  
+[[paper](https://www.aclweb.org/anthology/D10-1098.pdf)]    
+*Laura Chiticariu | Rajasekar Krishnamurthy | Yunyao Li | Frederick Reiss | Shivakumar Vaithyanathan,* EMNLP-2010.    
 
-1. **Open Entity Extraction from Web Search Query Logs**  
+1. **Open Entity Extraction from Web Search Query Logs**    
 [[paper](https://www.aclweb.org/anthology/C10-1058.pdf)]  
 *Alpa Jain | Marco Pennacchiotti,* Coling-2010.  
 
@@ -1145,9 +1145,9 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/N19-4019.pdf)][[code](http://nlp.cs.rpi.edu/demo/aida_pipeline-master.zip)]      
 *Manling Li | Ying Lin | Joseph Hoover | Spencer Whitehead | Clare Voss | Morteza Dehghani | Heng Ji,* NAACL-demo-2019.
 
-1. **Adversarial training for multi-context joint entity and relation extraction** 
-[[paper](https://www.aclweb.org/anthology/D18-1307.pdf)][[code](https://github.com/bekou/multihead_joint_entity_relation_extraction)]  
-*Giannis Bekoulis | Johannes Deleu | Thomas Demeester | Chris Develder,* EMNLP-2018.  
+1. **Adversarial training for multi-context joint entity and relation extraction**   
+[[paper](https://www.aclweb.org/anthology/D18-1307.pdf)][[code](https://github.com/bekou/multihead_joint_entity_relation_extraction)]    
+*Giannis Bekoulis | Johannes Deleu | Thomas Demeester | Chris Develder,* EMNLP-2018.    
 
 1. **Extracting Entities and Relations with Joint Minimum Risk Training**  
 [[paper](https://www.aclweb.org/anthology/D18-1249.pdf)][[code](https://github.com/changzhisun/entrel-joint-mrt)]    
@@ -1161,9 +1161,9 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/P17-1113.pdf)]  
 *Suncong Zheng | Feng Wang | Hongyun Bao | Yuexing Hao | Peng Zhou | Bo Xu,* ACL-2017.  
 
-1. **Global Normalization of Convolutional Neural Networks for Joint Entity and Relation Classification** 
-[[paper](https://www.aclweb.org/anthology/D17-1181.pdf)][[code](http://cistern.cis.lmu.de)]    
-*Heike Adel | Hinrich Schütze,* EMNLP-short-2017.  
+1. **Global Normalization of Convolutional Neural Networks for Joint Entity and Relation Classification**   
+[[paper](https://www.aclweb.org/anthology/D17-1181.pdf)][[code](http://cistern.cis.lmu.de)]      
+*Heike Adel | Hinrich Schütze,* EMNLP-short-2017.   
 
 1. **Investigating LSTMs for Joint Extraction of Opinion Entities and Relations**  
 [[paper](https://www.aclweb.org/anthology/P16-1087.pdf)]  
