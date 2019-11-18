@@ -686,8 +686,76 @@ This repository provides resources for information extraction, including benchma
 
  
 ### 2015-NER
+1. **Low-Rank Regularization for Sparse Conjunctive Feature Spaces: An Application to Named Entity Classification**   
+[[paper](https://www.aclweb.org/anthology/P15-1013.pdf)]  
+*Audi Primadhanty | Xavier Carreras | Ariadna Quattoni,* ACL-2015.  
+
+1. **Improving Named Entity Recognition in Tweets via Detecting Non-Standard Words**  
+[[paper](https://www.aclweb.org/anthology/P15-1090.pdf)]  
+*Chen Li | Yang Liu,* ACL-2015.  
+
+1. **Cross-lingual Transfer of Named Entity Recognizers without Parallel Corpora**  
+[[paper](https://www.aclweb.org/anthology/P15-2064.pdf)]  
+*Ayah Zirikly | Masato Hagiwara,* ACL-short-2015.  
+
+1. **Named entity recognition with document-specific KB tag gazetteers**  
+[[paper](https://www.aclweb.org/anthology/D15-1058.pdf)]  
+*Will Radford | Xavier Carreras | James Henderson,* EMNLP-short-2015.  
+
+1. **Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings**  
+[[paper](https://www.aclweb.org/anthology/D15-1064.pdf)]  
+*Nanyun Peng | Mark Dredze,* EMNLP-short-2015.  
+
+1. **The Unreasonable Effectiveness of Word Representations for Twitter Named Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/N15-1075.pdf)]  
+*
 
 ### 2015-RE
+1. **Classifying Relations by Ranking with Convolutional Neural Networks**  
+[[paper](https://www.aclweb.org/anthology/P15-1061.pdf)]  
+*Cícero dos Santos | Bing Xiang | Bowen Zhou,* ACL-2015.  
+
+1. **Semantic Representations for Domain Adaptation: A Case Study on the Tree Kernel-based Method for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/P15-1062.pdf)]  
+*Thien Huu Nguyen | Barbara Plank | Ralph Grishman,* ACL-2015.  
+
+1. **A Dependency-Based Neural Network for Relation Classification**   
+[[paper](https://www.aclweb.org/anthology/P15-2047.pdf)]  
+*Yang Liu | Furu Wei | Sujian Li | Heng Ji | Ming Zhou | Houfeng Wang,* ACL-short-2015.  
+
+1. **Semantic Relation Classification via Convolutional Neural Networks with Simple Negative Sampling**  
+[[paper](https://www.aclweb.org/anthology/D15-1062.pdf)]  
+*Kun Xu | Yansong Feng | Songfang Huang | Dongyan Zhao,* EMNLP-short-2015.  
+
+1. **Inferring Binary Relation Schemas for Open Information Extraction**  
+[[paper](https://www.aclweb.org/anthology/D15-1065.pdf)]  
+*Kangqi Luo | Xusheng Luo | Kenny Zhu,* EMNLP-short-2015.  
+
+1. **Extracting Relations between Non-Standard Entities using Distant Supervision and Imitation Learning**  
+[[paper](https://www.aclweb.org/anthology/D15-1086.pdf)]  
+*Isabelle Augenstein | Andreas Vlachos | Diana Maynard,* EMNLP-2015.  
+
+1. **Sieve-Based Spatial Relation Extraction with Expanding Parse Trees**  
+[[paper](https://www.aclweb.org/anthology/D15-1087.pdf)]  
+*Jennifer D’Souza | Vincent Ng,* EMNLP-2015.  
+
+1. **Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks**  
+[[paper](https://www.aclweb.org/anthology/D15-1203.pdf)]  
+*Daojian Zeng | Kang Liu | Yubo Chen | Jun Zhao,* EMNLP-2015.  
+
+1. **CORE: Context-Aware Open Relation Extraction with Factorization Machines**  
+[[paper](https://www.aclweb.org/anthology/D15-1204.pdf)]  
+*Fabio Petroni | Luciano Del Corro | Rainer Gemulla,* EMNLP-2015.  
+
+1. **Improved Relation Extraction with Feature-Rich Compositional Embedding Models**  
+[[paper](https://www.aclweb.org/anthology/D15-1205.pdf)]  
+*Matthew R. Gormley | Mo Yu | Mark Dredze,* EMNLP-2015.  
+
+1. **Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths**  
+[[paper](https://www.aclweb.org/anthology/D15-1206.pdf)]  
+*Yan Xu | Lili Mou | Ge Li | Yunchuan Chen | Hao Peng | Zhi Jin,* EMNLP-2015.  
+
+1. **
 
 
 ### 2014-NER
