@@ -708,7 +708,15 @@ This repository provides resources for information extraction, including benchma
 
 1. **The Unreasonable Effectiveness of Word Representations for Twitter Named Entity Recognition**  
 [[paper](https://www.aclweb.org/anthology/N15-1075.pdf)]  
-*
+*Colin Cherry | Hongyu Guo,* NAACL-2105.  
+
+1. **Distributed Representations of Words to Guide Bootstrapped Entity Classifiers**  
+[[paper](https://www.aclweb.org/anthology/N15-1128.pdf)]  
+*Sonal Gupta | Christopher D. Manning,* NAACL-short-2015.  
+
+1. **Enhancing Sumerian Lemmatization by Unsupervised Named-Entity Recognition**  
+[[paper](https://www.aclweb.org/anthology/N15-1167.pdf)]   
+*Yudong Liu | Clinton Burkhart | James Hearne | Liang Luo,* NAACL-short-2019.  
 
 ### 2015-RE
 1. **Classifying Relations by Ranking with Convolutional Neural Networks**  
@@ -755,8 +763,25 @@ This repository provides resources for information extraction, including benchma
 [[paper](https://www.aclweb.org/anthology/D15-1206.pdf)]  
 *Yan Xu | Lili Mou | Ge Li | Yunchuan Chen | Hao Peng | Zhi Jin,* EMNLP-2015.  
 
-1. **
+1. **Optimizing Multivariate Performance Measures for Learning Relation Extraction Models**  
+[[paper](https://www.aclweb.org/anthology/N15-1090.pdf)]  
+*Gholamreza Haffari | Ajay Nagesh | Ganesh Ramakrishnan,* NAACL-2019.  
 
+1. **Injecting Logical Background Knowledge into Embeddings for Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/N15-1118.pdf)]  
+*Tim Rocktäschel | Sameer Singh | Sebastian Riedel,* NAACL-2019.  
+
+1. **Chain Based RNN for Relation Classification**  
+[[[paper](https://www.aclweb.org/anthology/N15-1133.pdf)]]  
+*Javid Ebrahimi | Dejing Dou,* NAACL-short-2019.  
+
+1. **Multilingual Open Relation Extraction Using Cross-lingual Projection**  
+[[paper](https://www.aclweb.org/anthology/N15-1151.pdf)]  
+*Manaal Faruqui | Shankar Kumar,* NAACL-short-2015.  
+
+1. **Combining Word Embeddings and Feature Embeddings for Fine-grained Relation Extraction**  
+[[paper](https://www.aclweb.org/anthology/N15-1155.pdf)][[code](https://github.com/Gorov/ERE_RE)]  
+*Mo Yu | Matthew R. Gormley | Mark Dredze,* NAACL-short-2015.  
 
 ### 2014-NER
 
