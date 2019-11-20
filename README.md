@@ -2,7 +2,60 @@
 
 This repository provides resources for information extraction, including benchmark datasets, papers, tutorials, PhD theses, and framework tools.
 
-## Papers about information extraction (since 2010-)
+
+
+
+## Frameworks or Tools for Information Extraction
+1. **Jet: Java Extraction Tookit  
+[[website](https://cs.nyu.edu/grishman/jet/jet.html)]  
+
+1. **
+
+## PhD theses about Information Extraction
+(ordered by year)
+1. **Deep Learning for Information Extraction** 
+[[thesis](https://pqdtopen.proquest.com/doc/2025917601.html?FMT=AI)]    
+**Thien Huu Nguyen**, advisor: Ralph Grishman, New York University, 2018.  
+
+1. **Unsupervised Graph-Based Relation Extraction and Validation for Knowledge Base Population**  
+[[thesis](https://blender.cs.illinois.edu/paper/dian_thesis.pdf)]  
+**Dian Yu**, advisor: Heng ji, Rensselaer Polytechnic Institute, 2017. 
+
+1. **Jointly Learning Representations for Low-Resource Information Extraction**  
+[[thesis](https://jscholarship.library.jhu.edu/handle/1774.2/58685)]  
+**Nanyun Peng**, advisor: Mark Dredze, Johns Hopkins University, 2017.  
+
+1. **Information extraction with neural networks**  
+[[thesis](http://dspace.mit.edu/bitstream/handle/1721.1/111905/1005139501-MIT.pdf;jsessionid=22BD3083A29063F02A3BF5F791F72AF5?sequence=1)]  
+**Ji Young Lee**, advisor: Peter Szolovits, Massachusetts Institute of Technology,2017.  
+
+1. **Large-Scale Semantic Relationship Extraction for Information Discovery**  
+[[thesis](http://www.davidsbatista.net/assets/documents/publications/dsbatista-phd-thesis-2016.pdf)][[slides](http://www.davidsbatista.net/assets/documents/publications/phd-dsbatista2016-presentation.pdf)]  
+**David Soares Batista**, advisor: M´ario Jorge Costa Gaspar da Silva, University of Lisbon, 2016.  
+
+1. **Web Relation Extraction with Distant Supervision**  
+[[thesis](https://core.ac.uk/download/pdf/77022397.pdf)]  
+**Isabelle Augenstein**, advisor:Fabio Ciravegna and Diana Maynard, University of Sheffield, 2016.  
+
+
+1. **Joint Information Extraction**  
+[[thesis](https://blender.cs.illinois.edu/paper/qi_thesis.pdf)][[slides](https://blender.cs.illinois.edu/paper/qi_thesis.ppt)]  
+**Qi Li**, advisor: Heng ji, Rensselaer Polytechnic Institute, 2015.  
+
+1. **Distantly Supervised Information Extraction Using Bootstraped Patterns**  
+[[thesis](https://cs.stanford.edu/people/sonal/sonalgupta_dissertation.pdf)]  
+**Sonal Gupta**, Advisor: Christopher Manning, STanford University, 2015.  
+
+1. **Open Information Extraction for the Web**    
+[[thesis](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=50C145EDB8AEED6650A8E309F61A7C0F?doi=10.1.1.212.5142&rep=rep1&type=pdf)]  
+**Michele Banko**, Advisor:Oren Etzioni, University of Washington, 2009.  
+
+
+
+
+
+
+## Papers about Information Extraction (since 2010-)
 (ordered by year)
 ### 2019-NER  
 1. **A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy**  
