@@ -13,7 +13,7 @@ This repository provides resources for information extraction, including benchma
 
 ## PhD theses about Information Extraction
 (ordered by year)
-1. **Deep Learning for Information Extraction** 
+1. **Deep Learning for Information Extraction**   
 [[thesis](https://pqdtopen.proquest.com/doc/2025917601.html?FMT=AI)]    
 **Thien Huu Nguyen**, advisor: Ralph Grishman, New York University, 2018.  
 
