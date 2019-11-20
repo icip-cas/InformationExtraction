@@ -3,11 +3,32 @@
 This repository provides resources for information extraction, including benchmark datasets, papers, tutorials, PhD theses, and framework tools.
 
 
-
-
 ## Frameworks or Tools for Information Extraction
 1. **Jet: Java Extraction Tookit  
 [[website](https://cs.nyu.edu/grishman/jet/jet.html)]  
+
+1. **OpenNRE: Open-Source Package for Neural Relation Extraction  
+[[website](https://github.com/thunlp/OpenNRE)]   
+
+1. **Standford Named Entity Recognizer**  
+[[website](https://nlp.stanford.edu/software/relationExtractor.html)]  
+
+1. **Stanford Relation Extractor**  
+[[website](https://nlp.stanford.edu/software/relationExtractor.html)]  
+
+1. **Distantly Supervised Relation Extraction**  
+[[website](https://github.com/INK-USC/DS-RelationExtraction)]  
+
+1. **InfoExtractor: Information Extraction Baseline System**
+[[website](https://github.com/baidu/information-extraction)]  
+
+1. **Information Extraction Systems from Blender Lab**  
+[[website](https://blender.cs.illinois.edu/software/)]  
+
+## Datasets for Information Extraction
+
+1. **Datasets for Entity Recognition**  
+[[website](https://github.com/juand-r/entity-recognition-datasets)] 
 
 1. **
 
@@ -35,8 +56,7 @@ This repository provides resources for information extraction, including benchma
 
 1. **Web Relation Extraction with Distant Supervision**  
 [[thesis](https://core.ac.uk/download/pdf/77022397.pdf)]  
-**Isabelle Augenstein**, advisor:Fabio Ciravegna and Diana Maynard, University of Sheffield, 2016.  
-
+**Isabelle Augenstein**, advisor: Fabio Ciravegna and Diana Maynard, University of Sheffield, 2016.  
 
 1. **Joint Information Extraction**  
 [[thesis](https://blender.cs.illinois.edu/paper/qi_thesis.pdf)][[slides](https://blender.cs.illinois.edu/paper/qi_thesis.ppt)]  
@@ -48,7 +68,7 @@ This repository provides resources for information extraction, including benchma
 
 1. **Open Information Extraction for the Web**    
 [[thesis](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=50C145EDB8AEED6650A8E309F61A7C0F?doi=10.1.1.212.5142&rep=rep1&type=pdf)]  
-**Michele Banko**, Advisor:Oren Etzioni, University of Washington, 2009.  
+**Michele Banko**, Advisor: Oren Etzioni, University of Washington, 2009.  
 
 
 
