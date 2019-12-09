@@ -2,6 +2,24 @@
 
 This repository provides resources for information extraction, including benchmark datasets, papers, tutorials, PhD theses, and framework tools.
 
+##Tutorials about Information Extraction
+1. **Overviews from TAC-KBP**  
+[[website](https://tac.nist.gov/publications/index.html)]  
+
+1. **
+
+
+## Survey papers about Information Extracion
+(ordered by year)
+1. **A Survey of Deep Learning Methods for Relation Extraction**  
+[[paper](https://arxiv.org/pdf/1705.03645.pdf)]  
+*Shantanu Kumar,* arXiv-2017.  
+
+1. **Relation Extraction: A Survey**  
+[[paper](https://arxiv.org/pdf/1712.05191.pdf)]  
+*Sachin Pawar | Girish K. Palshikar | Pushpak Bhattacharyya,* arXiv-2017.
+
+1. **
 
 ## Frameworks or Tools for Information Extraction
 1. **Jet: Java Extraction Tookit**    
@@ -11,10 +29,13 @@ This repository provides resources for information extraction, including benchma
 [[website](https://github.com/thunlp/OpenNRE)]   
 
 1. **Standford Named Entity Recognizer**  
-[[website](https://nlp.stanford.edu/software/relationExtractor.html)]  
+[[website](https://nlp.stanford.edu/software/CRF-NER.html)]  
 
 1. **Stanford Relation Extractor**  
 [[website](https://nlp.stanford.edu/software/relationExtractor.html)]  
+
+1. **Stanford Open Information Extraction**  
+[[website](https://nlp.stanford.edu/software/openie.html)]  
 
 1. **Distantly Supervised Relation Extraction**  
 [[website](https://github.com/INK-USC/DS-RelationExtraction)]  
@@ -25,12 +46,13 @@ This repository provides resources for information extraction, including benchma
 1. **Information Extraction Systems from Blender Lab**  
 [[website](https://blender.cs.illinois.edu/software/)]  
 
+
 ## Datasets for Information Extraction
 
 1. **Datasets for Entity Recognition**  
 [[website](https://github.com/juand-r/entity-recognition-datasets)] 
 
-1. **15 Free Datasets and Corpora for Named Entity Recognition (NER)** 
+1. **15 Free Datasets and Corpora for Named Entity Recognition (NER)**   
 [[website](https://lionbridge.ai/datasets/15-free-datasets-and-corpora-for-named-entity-recognition-ner/)]  
 
 1. **Datasets of Annotated Semantic Relationships**  
@@ -39,7 +61,6 @@ This repository provides resources for information extraction, including benchma
 1. **Open Information Extraction (OIE) Resources**  
 [[website](https://github.com/gkiril/oie-resources)]  
 
-1. **
 
 ## PhD theses about Information Extraction
 (ordered by year)
@@ -78,9 +99,6 @@ This repository provides resources for information extraction, including benchma
 1. **Open Information Extraction for the Web**    
 [[thesis](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=50C145EDB8AEED6650A8E309F61A7C0F?doi=10.1.1.212.5142&rep=rep1&type=pdf)]  
 **Michele Banko**, Advisor: Oren Etzioni, University of Washington, 2009.  
-
-
-
 
 
 
