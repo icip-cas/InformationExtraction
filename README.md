@@ -4,10 +4,10 @@ This repository provides resources for information extraction, including benchma
 
 
 ## Frameworks or Tools for Information Extraction
-1. **Jet: Java Extraction Tookit  
+1. **Jet: Java Extraction Tookit**    
 [[website](https://cs.nyu.edu/grishman/jet/jet.html)]  
 
-1. **OpenNRE: Open-Source Package for Neural Relation Extraction  
+1. **OpenNRE: Open-Source Package for Neural Relation Extraction**   
 [[website](https://github.com/thunlp/OpenNRE)]   
 
 1. **Standford Named Entity Recognizer**  
@@ -19,7 +19,7 @@ This repository provides resources for information extraction, including benchma
 1. **Distantly Supervised Relation Extraction**  
 [[website](https://github.com/INK-USC/DS-RelationExtraction)]  
 
-1. **InfoExtractor: Information Extraction Baseline System**
+1. **InfoExtractor: Information Extraction Baseline System**  
 [[website](https://github.com/baidu/information-extraction)]  
 
 1. **Information Extraction Systems from Blender Lab**  
@@ -29,6 +29,15 @@ This repository provides resources for information extraction, including benchma
 
 1. **Datasets for Entity Recognition**  
 [[website](https://github.com/juand-r/entity-recognition-datasets)] 
+
+1. **15 Free Datasets and Corpora for Named Entity Recognition (NER)** 
+[[website](https://lionbridge.ai/datasets/15-free-datasets-and-corpora-for-named-entity-recognition-ner/)]  
+
+1. **Datasets of Annotated Semantic Relationships**  
+[[website](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)]  
+
+1. **Open Information Extraction (OIE) Resources**  
+[[website](https://github.com/gkiril/oie-resources)]  
 
 1. **
 
